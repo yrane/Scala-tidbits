@@ -6,4 +6,6 @@ object CodeFrags extends App {
   val seq_a = Seq("A_KEY","B_KEY")
   // To explode a list in parameters
   fn(seq_a:_*)
+
+  println("Hello World")
 }
