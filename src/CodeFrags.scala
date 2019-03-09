@@ -1,4 +1,4 @@
-class CodeFrags {
+object CodeFrags extends App {
   // how to accept variable-arguments(varargs) in Scala
   def fn(vals: String*): Unit = {
     vals.foreach(println)
