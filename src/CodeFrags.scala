@@ -1,4 +1,3 @@
-
 class CodeFrags {
   // how to accept variable-arguments(varargs) in Scala
   def fn(vals: String*): Unit = {
